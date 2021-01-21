@@ -9,5 +9,5 @@ The simulations compare binary partitions of a fixed size (default 100) with add
 
 ![results](image.png?raw=true "Results")
 
-As the results show, `ari` scales non-linearly with the amount of noise and is strngly affected by the imbalance.
+As the results show, `ari` scales non-linearly with the amount of noise and is affected by the imbalance.
 
