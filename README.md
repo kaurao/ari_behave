@@ -7,5 +7,7 @@ However, interpretation of `ari` is rather tricky as it depends on properties of
 This repository provides a simple simulation analysis that reinforces the difficulty in interpreting `ari` values. 
 The simulations compare binary partitions of a fixed size (default 100) with added noise (degree of mismatch) and also different levels of imbalance in the two classes.
 
+![results](image.png?raw=true "Results")
+
 As the results show, `ari` scales non-linearly with the amount of noise and is strngly affected by the imbalance.
 
