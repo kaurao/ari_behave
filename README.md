@@ -8,6 +8,7 @@ This repository provides a simple simulation analysis that reinforces the diffic
 The simulations compare binary partitions of a fixed size (default 100) with added noise (degree of mismatch) and also different levels of imbalance in the two classes.
 
 This simple simulation was performed using the following code: 
+
 `a <- run_ari_behave(cl_balance = c(0.5, 0.7, 0.8, 0.9, 0.95), n_repeat = 100, n=1000)`
 
 ![results](image.png?raw=true "Results")
